@@ -1,4 +1,4 @@
-# ``OpeNTF``: An Open-Source Neural Team Formation Benchmark Library 
+# ``OpeNTF``: An Open-Source Neural Spatial Team Formation Benchmark Library 
 Effective team formation is crucial for project success, influenced by skill coverage and geographic proximity. This paper proposes a novel approach for spatial team formation that leverages graph neural network (gnn) embeddings to transfer knowledge from a heterogenous collaborative network among experts, with metapaths and lack thereof, followed by a neural-based multi-label classifier. Our method aims to optimize team composition by considering the interplay between skill compatibility and geographic cohesiveness. Specifically, we construct a heterogeneous graph representation whose nodes are experts, skills, and locations to capture the complex relationships between experts' skills and their geographic locations. 
 
 ## :movie_camera: [`Demo`]
