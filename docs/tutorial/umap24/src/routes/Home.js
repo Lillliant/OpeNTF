@@ -79,7 +79,10 @@ function Home() {
         </span>
         <div className="section-body" style={{ textAlign: "center" }}>
           <b>
-            11:00am-12:30pm (CEST) <br /> Thursday, July 4, 2024, Room 12
+            11:00am-12:30pm (CEST) <br /> Thursday, July 4, 2024, Room 12 
+            <br />{" "}
+            The 32nd ACM Conference on User Modeling, Adaptation and
+            Personalization (UMAP 2024) <br /> Cagliari, Sardinia, Italy
           </b>{" "}
           <br />
           <b>
@@ -690,13 +693,19 @@ function Home() {
             </a>
           </div>
           <div class="p-2">
-            <a href="javascript:void(0)" style={{ cursor: "default" }}>
-              Presentation Slides (Upcoming)
+            <a
+              href="https://www.slideshare.net/slideshow/collaborative-team-recommendation-for-skilled-users-objectives-techniques-and-new-perspectives/270130704"
+              style={{ cursor: "default" }}
+            >
+              Presentation Slides
             </a>
           </div>
           <div class="p-2">
-            <a href="javascript:void(0)" style={{ cursor: "default" }}>
-              Presentation Video (Upcoming)
+            <a
+              href="https://www.youtube.com/playlist?list=PLKFWrqRN8VmRmxwDKlaA7Moa_Wv0li7ex"
+              style={{ cursor: "default" }}
+            >
+              Presentation Video
             </a>
           </div>
         </div>
