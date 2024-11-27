@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OpeNTF/tutorial/sigir-ap24/static/css/main.88e6149f.css",
-    "main.js": "/OpeNTF/tutorial/sigir-ap24/static/js/main.bef97131.js",
+    "main.js": "/OpeNTF/tutorial/sigir-ap24/static/js/main.08e2903c.js",
     "static/js/787.85b43d0b.chunk.js": "/OpeNTF/tutorial/sigir-ap24/static/js/787.85b43d0b.chunk.js",
     "static/media/taxonomy.jpg": "/OpeNTF/tutorial/sigir-ap24/static/media/taxonomy.112cb6d1e28b8085b5cf.jpg",
     "static/media/flow.jpg": "/OpeNTF/tutorial/sigir-ap24/static/media/flow.21a1e81cc70c7b8d9519.jpg",
@@ -18,11 +18,11 @@
     "static/media/flamingo.jpg": "/OpeNTF/tutorial/sigir-ap24/static/media/flamingo.2f6ab400c29b7751b012.jpg",
     "index.html": "/OpeNTF/tutorial/sigir-ap24/index.html",
     "main.88e6149f.css.map": "/OpeNTF/tutorial/sigir-ap24/static/css/main.88e6149f.css.map",
-    "main.bef97131.js.map": "/OpeNTF/tutorial/sigir-ap24/static/js/main.bef97131.js.map",
+    "main.08e2903c.js.map": "/OpeNTF/tutorial/sigir-ap24/static/js/main.08e2903c.js.map",
     "787.85b43d0b.chunk.js.map": "/OpeNTF/tutorial/sigir-ap24/static/js/787.85b43d0b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88e6149f.css",
-    "static/js/main.bef97131.js"
+    "static/js/main.08e2903c.js"
   ]
 }
